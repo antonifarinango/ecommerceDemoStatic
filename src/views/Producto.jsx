@@ -17,7 +17,7 @@ export default function Producto() {
     const nombreFormateado = nombre.replace(" ", "%20");
 
 
-    const numero = "593984053628"; // sin + ni espacios
+    const numero = import.meta.env.VITE_NUMERO; // sin + ni espacios
     const mensaje = encodeURIComponent(`Hola, quiero más info sobre el producto ${nombre} : http://localhost:5173/producto/${nombreFormateado}`);
     const url = `https://wa.me/${numero}?text=${mensaje}`;
 

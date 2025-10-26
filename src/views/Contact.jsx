@@ -33,7 +33,7 @@ export default function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const numero = "593984053628";
+    const numero = import.meta.env.VITE_NUMERO;
     const text = `Nombre: ${nombre}%0AEmail: ${email}%0AMensaje: ${mensaje}`;
     window.open(`https://wa.me/${numero}?text=${text}`, "_blank");
 
