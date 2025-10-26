@@ -1,0 +1,116 @@
+[
+  {
+    "nombre": "Camiseta 1",
+    "talla": "X-M-L",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur architecto dolores eum sed illum amet.",
+    "precio": 20,
+    "categoria": "Camisetas",
+    "estado": "Nuevo",
+    "img": [
+      "/img/camiseta-1.webp",
+      "/img/camiseta-2.webp"
+    ]
+  },
+  {
+    "nombre": "Camiseta 2",
+    "talla": "X-M-L",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur architecto dolores eum sed illum amet.",
+    "precio": 20,
+    "categoria": "Camisetas",
+    "estado": "Nuevo",
+    "img": [
+      "/img/camiseta-1.webp",
+      "/img/camiseta-2.webp"
+    ]
+  },
+  {
+    "nombre": "Camiseta 3",
+    "talla": "X-M-L",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur architecto dolores eum sed illum amet.",
+    "precio": 20,
+    "categoria": "Camisetas",
+    "estado": "Nuevo",
+    "img": [
+      "/img/camiseta-1.webp",
+      "/img/camiseta-2.webp"
+    ]
+  },
+  {
+    "nombre": "Hoodie 1",
+    "talla": "X-M-L",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur architecto dolores eum sed illum amet.",
+    "precio": 20,
+    "categoria": "Hoddies",
+    "estado": "Promoción",
+    "img": [
+      "/img/hoodie1.jpg",
+      "/img/hoodie1.jpg",
+      "/img/hoodie1.jpg"
+    ]
+  },
+  {
+    "nombre": "Hoodie 1",
+    "talla": "X-M-L",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur architecto dolores eum sed illum amet.",
+    "precio": 20,
+    "categoria": "Hoddies",
+    "estado": "Promoción",
+    "img": [
+      "/img/hoodie1.jpg",
+      "/img/hoodie1.jpg",
+      "/img/hoodie1.jpg"
+    ]
+  },
+  {
+    "nombre": "Hoodie 1",
+    "talla": "X-M-L",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur architecto dolores eum sed illum amet.",
+    "precio": 20,
+    "categoria": "Hoddies",
+    "estado": "Promoción",
+    "img": [
+      "/img/hoodie1.jpg",
+      "/img/hoodie1.jpg",
+      "/img/hoodie1.jpg"
+    ]
+  },
+  {
+    "nombre": "Pantalón 1",
+    "talla": "X-M-L",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur architecto dolores eum sed illum amet.",
+    "precio": 20,
+    "categoria": "Pantalones",
+    "estado": "Normal",
+    "img": [
+      "/img/pantalon-1.jpg",
+      "/img/pantalon-1.jpg",
+      "/img/pantalon-1.jpg"
+    ]
+  },
+  {
+    "nombre": "Pantalon 2",
+    "talla": "X-M-L",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur architecto dolores eum sed illum amet.",
+    "precio": 20,
+    "categoria": "Pantalones",
+    "estado": "Normal",
+    "img": [
+      "/img/pantalon-1.jpg",
+      "/img/pantalon-1.jpg",
+      "/img/pantalon-1.jpg"
+    ]
+  },
+  {
+    "nombre": "Pantalon 3",
+    "talla": "X-M-L",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur architecto dolores eum sed illum amet.",
+    "precio": 20,
+    "categoria": "Pantalones",
+    "estado": "Normal",
+    "img": [
+      "/img/pantalon-1.jpg",
+      "/img/pantalon-1.jpg",
+      "/img/pantalon-1.jpg"
+    ]
+  }
+]
